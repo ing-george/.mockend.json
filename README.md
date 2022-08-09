@@ -1,0 +1,2 @@
+# .mockend.json
+DataBase Game
